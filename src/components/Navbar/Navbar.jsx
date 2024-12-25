@@ -1,6 +1,7 @@
 import React from "react";
 import coin from "../../assets/icons/small-icon.png";
-import logo from "../../assets/logo/cricket.png";
+// import logo from "../../assets/logo/cricket.png";
+import logo from "../../assets/logo1.png";
 const Navbar = () => {
   const links = (
     <>
