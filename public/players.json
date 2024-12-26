@@ -7,7 +7,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "2.0M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 2,
@@ -16,7 +16,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "1.8M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 3,
@@ -25,7 +25,7 @@
       "image": "https://example.com/jasprit_bumrah.jpg",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "1.5M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 4,
@@ -34,7 +34,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Medium",
-      "biddingPrice": "2.3M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 5,
@@ -43,7 +43,7 @@
       "image": "https://example.com/rashid_khan.jpg",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Leg Spin",
-      "biddingPrice": "1.9M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 6,
@@ -52,7 +52,7 @@
       "image": "https://example.com/steve_smith.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "1.7M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 7,
@@ -61,7 +61,7 @@
       "image": "https://example.com/quinton_de_kock.jpg",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "1.6M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 8,
@@ -70,7 +70,7 @@
       "image": "https://example.com/trent_boult.jpg",
       "role": "Bowler",
       "battingBowlingType": "Left-arm Fast",
-      "biddingPrice": "1.4M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 9,
@@ -79,7 +79,7 @@
       "image": "https://example.com/andre_russell.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Right-hand Bat / Right-arm Medium",
-      "biddingPrice": "2.2M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 10,
@@ -88,7 +88,7 @@
       "image": "https://example.com/david_warner.jpg",
       "role": "Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "2.1M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 11,
@@ -97,7 +97,7 @@
       "image": "https://example.com/moeen_ali.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Off Spin",
-      "biddingPrice": "1.3M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 12,
@@ -106,7 +106,7 @@
       "image": "https://example.com/shakib_al_hasan.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Left-arm Orthodox",
-      "biddingPrice": "1.8M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 13,
@@ -115,7 +115,7 @@
       "image": "https://i.ibb.co/smDCRmx/pat.jpg",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "1.5M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 14,
@@ -124,7 +124,7 @@
       "image": "https://example.com/kl_rahul.jpg",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "1.9M"
+      "biddingPrice": "200000"
     },
     {
       "playerId": 15,
@@ -133,7 +133,7 @@
       "image": "https://example.com/babar_azam.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "2.4M"
+      "biddingPrice": "200000"
     }
   ]
 }
