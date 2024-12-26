@@ -1,5 +1,5 @@
 import React from "react";
-
+import logo from "../../assets/logo-footer.png";
 const Footer = () => {
   return (
     <footer className="bg-[#0B1120] text-white pt-20 relative">
@@ -8,6 +8,9 @@ const Footer = () => {
         {/* Ensure Newsletter is placed here */}
       </div>
 
+      <div className="justify-items-center mb-5">
+        <img src={logo} alt="" />
+      </div>
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-6">
         {/* About Us Section */}
         <div>

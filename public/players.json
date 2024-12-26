@@ -7,7 +7,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "1700000"
     },
     {
       "playerId": 2,
@@ -16,16 +16,16 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "1800000"
     },
     {
       "playerId": 3,
       "name": "Jasprit Bumrah",
       "country": "India",
-      "image": "https://example.com/jasprit_bumrah.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "200000"
+      "biddingPrice": "100000"
     },
     {
       "playerId": 4,
@@ -34,76 +34,76 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Medium",
-      "biddingPrice": "200000"
+      "biddingPrice": "300000"
     },
     {
       "playerId": 5,
       "name": "Rashid Khan",
       "country": "Afghanistan",
-      "image": "https://example.com/rashid_khan.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Leg Spin",
-      "biddingPrice": "200000"
+      "biddingPrice": "160000"
     },
     {
       "playerId": 6,
       "name": "Steve Smith",
       "country": "Australia",
-      "image": "https://example.com/steve_smith.jpg",
+      "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "300000"
     },
     {
       "playerId": 7,
       "name": "Quinton de Kock",
       "country": "South Africa",
-      "image": "https://example.com/quinton_de_kock.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "180000"
     },
     {
       "playerId": 8,
       "name": "Trent Boult",
       "country": "New Zealand",
-      "image": "https://example.com/trent_boult.jpg",
+      "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Bowler",
       "battingBowlingType": "Left-arm Fast",
-      "biddingPrice": "200000"
+      "biddingPrice": "150000"
     },
     {
       "playerId": 9,
       "name": "Andre Russell",
       "country": "West Indies",
-      "image": "https://example.com/andre_russell.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "All-rounder",
       "battingBowlingType": "Right-hand Bat / Right-arm Medium",
-      "biddingPrice": "200000"
+      "biddingPrice": "100000"
     },
     {
       "playerId": 10,
       "name": "David Warner",
       "country": "Australia",
-      "image": "https://example.com/david_warner.jpg",
+      "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "100000"
     },
     {
       "playerId": 11,
       "name": "Moeen Ali",
       "country": "England",
-      "image": "https://example.com/moeen_ali.jpg",
+      "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Off Spin",
-      "biddingPrice": "200000"
+      "biddingPrice": "100000"
     },
     {
       "playerId": 12,
       "name": "Shakib Al Hasan",
       "country": "Bangladesh",
-      "image": "https://example.com/shakib_al_hasan.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Left-arm Orthodox",
       "biddingPrice": "200000"
@@ -112,25 +112,25 @@
       "playerId": 13,
       "name": "Pat Cummins",
       "country": "Australia",
-      "image": "https://i.ibb.co/smDCRmx/pat.jpg",
+      "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "200000"
+      "biddingPrice": "300000"
     },
     {
       "playerId": 14,
       "name": "KL Rahul",
       "country": "India",
-      "image": "https://example.com/kl_rahul.jpg",
+      "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "100000"
     },
     {
       "playerId": 15,
       "name": "Babar Azam",
       "country": "Pakistan",
-      "image": "https://example.com/babar_azam.jpg",
+      "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
       "biddingPrice": "200000"
