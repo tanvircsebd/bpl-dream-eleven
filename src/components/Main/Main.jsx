@@ -59,7 +59,7 @@ const Main = ({ coin, handleReduceCoin, handleRefundCoin }) => {
   return (
     <div className="p-8">
       <ToastContainer position="top-right" autoClose={3000} />
-      <div className="join flex gap-4 mb-6">
+      <div className="join gap-4 mb-6 mx-96">
         <button
           onClick={() => handleToggleView(false)}
           className={`btn join-item ${

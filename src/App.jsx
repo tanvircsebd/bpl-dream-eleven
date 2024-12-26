@@ -24,7 +24,7 @@ function App() {
   };
 
   return (
-    <>
+    <div className="max-w-6xl mx-auto">
       <Navbar coin={coin} /> {/* Pass the coin state */}
       <Banner handleAddCredit={handleAddCredit} /> {/* Pass the handler */}
       <Main
@@ -34,7 +34,7 @@ function App() {
       />
       <Newsletter />
       <Footer />
-    </>
+    </div>
   );
 }
 
