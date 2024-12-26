@@ -56,6 +56,12 @@ const Main = ({ coin, handleReduceCoin, handleRefundCoin }) => {
     }
   };
 
+  // Function to show available players
+  const handleShowAvailablePlayers = () => {
+    setPlayers(allPlayers); // Show all available players
+    setShowSelected(false); // Switch to available players view
+  };
+
   return (
     <div className="p-8">
       <ToastContainer position="top-right" autoClose={3000} />
@@ -79,6 +85,9 @@ const Main = ({ coin, handleReduceCoin, handleRefundCoin }) => {
       </div>
       {showSelected ? (
         <SelectedPlayers
+          // setPlayers={setPlayers} // Pass setPlayers to SelectedPlayers
+          // allPlayers={allPlayers} // Pass allPlayers to SelectedPlayers
+          handleShowAvailablePlayers={handleShowAvailablePlayers} // Pass the function to SelectedPlayers
           players={selectedPlayers}
           handleRemovePlayer={handleRemovePlayer}
         />

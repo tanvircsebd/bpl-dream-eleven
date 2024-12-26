@@ -1,6 +1,13 @@
 import React from "react";
 
-const SelectedPlayers = ({ players, handleRemovePlayer }) => {
+const SelectedPlayers = ({
+  players,
+  handleRemovePlayer,
+  handleShowAvailablePlayers,
+}) => {
+  const handleAddMorePlayer = () => {
+    setPlayers(allPlayers); // Set players to show all available players
+  };
   return (
     <div>
       <h2 className="text-2xl font-bold mb-4">
@@ -49,9 +56,10 @@ const SelectedPlayers = ({ players, handleRemovePlayer }) => {
       <div className="mt-6">
         <button
           className="btn btn-primary bg-yellow-300 text-black font-bold px-6 py-2 rounded-lg shadow-md hover:bg-yellow-400"
-          onClick={() => {
-            // Optional: Scroll to available players section or navigate
-          }}
+          // onClick={() => {
+          //   // Optional: Scroll to available players section or navigate
+          // }}
+          onClick={handleShowAvailablePlayers} // Call the function to show available players
         >
           Add More Player
         </button>
