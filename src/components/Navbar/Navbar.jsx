@@ -56,7 +56,7 @@ const Navbar = ({ coin }) => {
           <ul className="menu menu-horizontal px-1">{links}</ul>
         </div>
         <div className="btn">
-          <span className="mr-2">{coin}</span> Coin {/* Display coin value */}
+          <span className="mr-2">{coin}k</span> Coin
           <img src={coinIcon} alt="Coin Icon" />
         </div>
       </div>

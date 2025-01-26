@@ -7,7 +7,6 @@ const Banner = ({ handleAddCredit }) => {
     <div className="w-full">
       <section className="relative flex items-center justify-center h-[60vh] text-white bg-[#131313] bg-cover bg-center">
         <div
-          // className="text-center bg-gradient-to-t from-black/70 via-black/50 to-transparent p-6 rounded-lg"
           className="text-center  p-8 rounded-lg"
           style={{ backgroundImage: `url(${bgShadow})` }}
         >

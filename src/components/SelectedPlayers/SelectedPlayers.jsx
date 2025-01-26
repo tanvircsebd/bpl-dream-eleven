@@ -6,7 +6,7 @@ const SelectedPlayers = ({
   handleShowAvailablePlayers,
 }) => {
   const handleAddMorePlayer = () => {
-    setPlayers(allPlayers); // Set players to show all available players
+    setPlayers(allPlayers);
   };
   return (
     <div>
@@ -57,15 +57,10 @@ const SelectedPlayers = ({
           </div>
         ))}
       </div>
-
-      {/* Add More Player Button */}
       <div className="mt-6">
         <button
           className="btn btn-primary bg-yellow-300 text-black font-bold px-6 py-2 rounded-lg shadow-md hover:bg-yellow-400"
-          // onClick={() => {
-          //   // Optional: Scroll to available players section or navigate
-          // }}
-          onClick={handleShowAvailablePlayers} // Call the function to show available players
+          onClick={handleShowAvailablePlayers}
         >
           Add More Player
         </button>
