@@ -7,7 +7,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "1700000"
+      "biddingPrice": "170"
     },
     {
       "playerId": 2,
@@ -16,7 +16,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "1800000"
+      "biddingPrice": "180"
     },
     {
       "playerId": 3,
@@ -25,7 +25,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "100000"
+      "biddingPrice": "100"
     },
     {
       "playerId": 4,
@@ -34,7 +34,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Medium",
-      "biddingPrice": "300000"
+      "biddingPrice": "300"
     },
     {
       "playerId": 5,
@@ -43,7 +43,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Leg Spin",
-      "biddingPrice": "160000"
+      "biddingPrice": "160"
     },
     {
       "playerId": 6,
@@ -52,7 +52,7 @@
       "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "300000"
+      "biddingPrice": "300"
     },
     {
       "playerId": 7,
@@ -61,7 +61,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "180000"
+      "biddingPrice": "180"
     },
     {
       "playerId": 8,
@@ -70,7 +70,7 @@
       "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Bowler",
       "battingBowlingType": "Left-arm Fast",
-      "biddingPrice": "150000"
+      "biddingPrice": "150"
     },
     {
       "playerId": 9,
@@ -79,7 +79,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "All-rounder",
       "battingBowlingType": "Right-hand Bat / Right-arm Medium",
-      "biddingPrice": "100000"
+      "biddingPrice": "100"
     },
     {
       "playerId": 10,
@@ -88,7 +88,7 @@
       "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Batsman",
       "battingBowlingType": "Left-hand Bat",
-      "biddingPrice": "100000"
+      "biddingPrice": "100"
     },
     {
       "playerId": 11,
@@ -97,7 +97,7 @@
       "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Right-arm Off Spin",
-      "biddingPrice": "100000"
+      "biddingPrice": "100"
     },
     {
       "playerId": 12,
@@ -106,7 +106,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "All-rounder",
       "battingBowlingType": "Left-hand Bat / Left-arm Orthodox",
-      "biddingPrice": "200000"
+      "biddingPrice": "200"
     },
     {
       "playerId": 13,
@@ -115,7 +115,7 @@
       "image": "https://i.ibb.co/5rSsBQZ/dekock.png",
       "role": "Bowler",
       "battingBowlingType": "Right-arm Fast",
-      "biddingPrice": "300000"
+      "biddingPrice": "300"
     },
     {
       "playerId": 14,
@@ -124,7 +124,7 @@
       "image": "https://i.ibb.co/PwSnKXj/smith.webp",
       "role": "Wicketkeeper Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "100000"
+      "biddingPrice": "100"
     },
     {
       "playerId": 15,
@@ -133,7 +133,7 @@
       "image": "https://i.ibb.co/K5JCthF/kane.jpg",
       "role": "Batsman",
       "battingBowlingType": "Right-hand Bat",
-      "biddingPrice": "200000"
+      "biddingPrice": "200"
     }
   ]
 }
